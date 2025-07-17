@@ -1,0 +1,462 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Azeret Mono", monospace;
+}
+
+
+/************ Width **************/
+.w-100{
+    width: 100%;
+}
+.w-36{
+    width: 36px;
+}
+.w-36-86{
+    width: 36.86px;
+}
+.w-56{
+    width: 56px;
+}
+.w-94-78{
+    width: 94.78px;
+}
+.w-108{
+    width: 108px;
+}
+.w-143-3{
+    width: 143.3px;
+}
+.w-240{
+    width: 240px;
+}
+.w-240-28{
+    width: 240.28px;
+}
+.w-274-17{
+    width: 274.17px;
+}
+.w-364{
+    width: 364px;
+}
+.w-390{
+    width: 390px;
+}
+.w-468{
+    width: 468px;
+}
+.w-477{
+    width: 477px;
+}
+.w-548{
+    width: 548px;
+}
+.w-606{
+    width: 606px;
+}
+.w-684{
+    width: 684;
+}
+.w-850{
+    width: 850px;
+}
+.w-852{
+    width: 852px;
+}
+.w-892-49{
+    width: 892.49px;
+}
+.w-928{
+    width: 928px;
+}
+.w-941-22{
+    width: 941.22px;
+}
+.w-946{
+    width: 946px;
+}
+.w-998{
+    width: 998px;
+}
+.w-1060{
+    width: 1060px;
+}
+.w-1076{
+    width: 1076px;
+}
+.w-1140{
+    width: 1140px;
+}
+
+/************ Height **************/
+.h-35-95{
+    height: 35.95px;
+}
+.h-36{
+    height: 36px;
+}
+.h-56{
+    height: 56px;
+}
+.h-87-75{
+    height: 87.75px;
+}
+.h-100{
+    height: 100px;
+}
+.h-108{
+    height: 108px;
+}
+.h-131{
+    height: 131px;
+}
+.h-550{
+    height: 550px;
+}
+
+/************ Margin **************/
+.m-auto{
+    margin: auto;
+}
+.mt-8{
+    margin-top: 8px;
+}
+.mt-16{
+    margin-top: 16px;
+}
+.mt-24{
+    margin-top: 24px;
+}
+.mt-26{
+    margin-top: 26px;
+}
+.mt-32{
+    margin-top: 32px;
+}
+.mt-49{
+    margin-top: 49px;
+}
+.mt-74{
+    margin-top: 74px;
+}
+.mt-90{
+    margin-top: 90px;
+}
+.mt-111{
+    margin-top: 111px;
+}
+.mt-151{
+    margin-top: 151px;
+}
+.mb-45{
+    margin-bottom: 45px;
+}
+.mb-48{
+    margin-bottom: 48px;
+}
+.mb-80{
+    margin-bottom: 80px;
+}
+
+/************ Padding **************/
+.p-32{
+    padding: 32px;
+}
+.p-40{
+    padding: 40px;
+}
+.p-48{
+    padding: 48px;
+}
+.pt-26{
+    padding: 26px;
+}
+.pb-45{
+    padding: 45px;
+}
+.px-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.px-17{
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+.px-19{
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+.px-21{
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.px-32{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.px-64{
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.px-80{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.py-20{
+    padding-left: 20px;
+    padding-right:  20px;
+}
+.py-24{
+    padding-left: 24px;
+    padding-right:  24px;
+}
+.py-48{
+    padding-left: 48px;
+    padding-right:  48px;
+}
+.py-97{
+    padding-left: 97px;
+    padding-right:  97px;
+}
+
+/************ Font Size **************/
+.font-16{
+    font-size: 16px;
+}
+.font-20{
+    font-size: 20px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-28{
+    font-size: 28px;
+}
+.font-32{
+    font-size: 32px;
+}
+.font-48{
+    font-size: 48px;
+}
+
+/************ Font Weight **************/
+.font-normal{
+    font-weight: 400;
+}
+.font-semibold{
+    font-weight: 600;
+}
+.font-bold{
+    font-weight: 700;
+}
+.font-extrabold{
+    font-weight: 800;
+}
+
+/************ Line Height **************/
+.line-h19{
+    line-height: 19px;
+}
+.line-h23{
+    line-height: 23px;
+}
+.line-h26{
+    line-height: 26px;
+}
+.line-h33{
+    line-height: 33px;
+}
+.line-h36{
+    line-height: 36px;
+}
+.line-h37{
+    line-height: 37px;
+}
+.line-h68{
+    line-height: 68px;
+}
+
+/************ Text Align **************/
+.text-left{
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+
+/************ Text Decoration Line **************/
+.underline{
+    text-decoration-line: underline;
+}
+.no-underline{
+    text-decoration-line: none;
+}
+
+/************ Opacity **************/
+.opacity-02{
+    opacity: 0.02;
+}
+.opacity-03{
+    opacity: 0.03;
+}
+.opacity-15{
+    opacity: 0.15;
+}
+.opacity-2{
+    opacity: 0.2;
+}
+.opacity-4{
+    opacity: 0.4;
+}
+.opacity-7{
+    opacity: 0.7;
+}
+.opacity-8{
+    opacity: 0.8;
+}
+
+/************ Border Width **************/
+.border-none{
+    border-width: 0px;
+}
+.border-1{
+    border-width: 1px;
+}
+
+/************ Border Style **************/
+.border-solid{
+    border-style: solid;
+}
+
+/************ Border Color **************/
+.border-current{
+    border-color: rgb(13, 19, 33);
+}
+
+/************ Border Radius **************/
+.radius-8{
+    border-radius: 8px;
+}
+.radius-16{
+    border-radius: 16px;
+}
+
+/************ background Color **************/
+.bg-current{
+    background: rgb(13, 19, 33);
+}
+.bg-white{
+    background: rgb(255, 255, 255);
+}
+.bg-tp-1{
+    background: rgba(255, 76, 30, 0.05);
+}
+.bg-tp-2{
+    background: rgba(255, 223, 0, 0.05);
+}
+.bg-tp-3{
+    background: rgba(0, 76, 232, 0.05);
+}
+.bg-lg-90{
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.bg-lg-270{
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+/************ Text Color **************/
+.text-current{
+    color: rgb(13, 19, 33);
+}
+.text-white{
+    color: rgb(255, 255, 255);
+}
+
+/************ Display Flex **************/
+.flex{
+    display: flex;
+}
+.flex-column{
+    flex-direction: column;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+
+/************ Gap **************/
+.gap-16{
+    gap: 16px;
+}
+.gap-24{
+    gap: 24px;
+}
+.gap-24-14{
+    gap: 24.14px;
+}
+.gap-32{
+    gap: 32px;
+}
+.gap-98-83{
+    gap: 98.83px;
+}
+.gap-133{
+    gap: 133px;
+}
+
+/************ Cursor **************/
+.cursor{
+    cursor: pointer;
+}
+
+/* Hero Section */
+#hero{
+    background: url('../assets/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Why Web Development */
+.dev-container{
+    background: rgba(13, 19, 33, 0.02);
+}
+
+/* My Inspiration */
+.inspiration-video{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+}
+
+/* My Next Target */
+.target{
+    border: 1px solid rgba(13, 19, 33, 0.15);
+}
+
+/* I need Support */
+#support{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#support input[type=text]{
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    outline: none;
+    color: rgba(13, 19, 33, 0.4);
+}
+#support input[type=submit]{
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    outline: none;
+}
+
+/* Footer */
+#footer{
+    background: rgba(13, 19, 33, 0.03);
+}
